@@ -1,9 +1,5 @@
 package cm.ratan.agecalcipro;
 
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.Date;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -23,6 +19,10 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
 
 public class AgecalciActivity extends Activity {
     /** Called when the activity is first created. */
@@ -1056,7 +1056,9 @@ public class AgecalciActivity extends Activity {
     
     
     
-    
+    /*
+    Designed and Developed by Ratan Apps
+     */
     
     
 }

@@ -1,9 +1,5 @@
 package cm.ratan.agecalcipro;
 
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.Date;
-
 import android.app.Activity;
 import android.app.Dialog;
 import android.content.DialogInterface;
@@ -18,6 +14,10 @@ import android.widget.LinearLayout;
 import android.widget.TimePicker;
 import android.widget.TimePicker.OnTimeChangedListener;
 import android.widget.ViewSwitcher;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
 
 public class CustomDateTimePicker implements View.OnClickListener 
 {
@@ -421,4 +421,10 @@ public void onClick(View arg0)
 	    }
 	
 }
+
+
+    /*
+    Designed and Developed by Ratan Apps
+     */
+
 }

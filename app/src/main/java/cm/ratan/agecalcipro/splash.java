@@ -57,5 +57,10 @@ public class splash extends Activity implements Runnable
 		super.onPause();
 		finish();
 	}
+
+
+	/*
+	Designed and Developed by Ratan Apps
+	 */
 	
 }
