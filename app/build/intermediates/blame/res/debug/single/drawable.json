@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_props.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\drawable\\button_props.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\futbir_layout.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\drawable\\futbir_layout.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\disp_layout.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\drawable\\disp_layout.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_normal.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\drawable\\btn_normal.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_normal_click.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\drawable\\btn_normal_click.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_props.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\drawable\\txt_props.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txtnormal.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\drawable\\txtnormal.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txtnormal_click.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\drawable\\txtnormal_click.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_back.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\drawable\\splash_back.xml"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\values\\titlecolor.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 49,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 64,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 64,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\values\\titlebackgroundstyle.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\values\\theme1.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 453
+                    }
+                }
+            }
+        ]
+    }
+]

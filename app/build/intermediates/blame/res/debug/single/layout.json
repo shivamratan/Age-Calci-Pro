@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "H:\\cloud\\Code it\\studio\\agecalc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "H:\\cloud\\Code it\\studio\\agecalc\\app\\src\\main\\res\\layout\\dialog.xml"
+    }
+]

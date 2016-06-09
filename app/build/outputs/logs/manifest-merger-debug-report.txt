@@ -1,0 +1,62 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml
+		INJECTED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml
+		INJECTED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml
+		INJECTED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml
+		INJECTED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml
+		INJECTED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml
+application
+ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:9:5-38:19
+	android:label
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:11:9-41
+	android:debuggable
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:10:9-41
+activity#cm.ratan.agecalcipro.AgecalciActivity
+ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:15:8-27:20
+	android:screenOrientation
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:16:13-45
+activity#cm.ratan.agecalcipro.splash
+ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:screenOrientation
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:29:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from H:\cloud\Code it\studio\agecalc\app\src\main\AndroidManifest.xml:35:27-74

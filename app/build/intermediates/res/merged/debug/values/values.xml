@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titlebackgroundcolor">#7f007f</color>
+    <string name="app_name">Agecalci Pro</string>
+    <string name="hello">Hello World, AgecalciActivity!</string>
+    <style name="WindowTitleBackground">
+        
+        <item name="android:background">@color/titlebackgroundcolor</item> 
+    </style>
+    <style name="customtheme" parent="@android:style/Theme.Black">
+        
+      <!-- <item name="android:windowActionBar">false</item> -->
+      <item name="android:windowNoTitle">false</item>   
+     <item name="android:windowTitleSize">50dp</item>   
+     <item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>
+       
+    </style>
+</resources>
